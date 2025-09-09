@@ -1,0 +1,28 @@
+# Carpetas generadas automáticamente
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Configuración del editor (no necesaria en repo)
+.vscode/
+.vs/
+
+# Archivos temporales de Visual Studio
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+
+# Archivos de Xcode
+*.xcodeproj
+*.xcworkspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
